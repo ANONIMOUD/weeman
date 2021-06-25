@@ -1,7 +1,7 @@
 Weeman - http server for phishing
 =================================
 
-![Weeman](https://raw.githubusercontent.com/Hypsurus/weeman/master/core/weeman12.png)
+![Weeman](https://github.com/yunanaexploit/weeman/blob/master/core/weeman12.png)
 
 DISCLAIMER
 ==========
