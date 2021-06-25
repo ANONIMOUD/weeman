@@ -1,3 +1,5 @@
+
+
 Weeman - http server for phishing
 =================================
 
@@ -74,6 +76,7 @@ The settings will be saved for the next time you run weeman.py.
 Get Weeman
 =============
                 git clone git://github.com/Hypsurus/weeman
+github : yunanaexploit/weeman
   
 Copyright 2015 (C) Hypsurus <hypsurus@mail.ru>.
 
